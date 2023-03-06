@@ -1,0 +1,14 @@
+/* warna abu tua = #242122
+warna abu muda = #939496
+warna kuning = #f5df4c */
+
+.nav-custom {
+  background-color: #242122;
+}
+
+.bg-custom {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+.bg-custom-2 {
+  background-color: #f5df4c;
+}
